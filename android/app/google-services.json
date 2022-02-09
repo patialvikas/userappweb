@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "200120695453",
+    "project_id": "chotulal-dbc99",
+    "storage_bucket": "chotulal-dbc99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200120695453:android:623d6eb273a810105db274",
+        "android_client_info": {
+          "package_name": "com.chhotulal.restaurant_partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200120695453-3alp620tlabiq6kdde499vtlpkn9qadt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZq3ebHuy2EGU28HOvNMSWEXp6ssG6_8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200120695453-3alp620tlabiq6kdde499vtlpkn9qadt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200120695453:android:e0ace35badc28db55db274",
+        "android_client_info": {
+          "package_name": "com.chhotulal.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200120695453-3alp620tlabiq6kdde499vtlpkn9qadt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZq3ebHuy2EGU28HOvNMSWEXp6ssG6_8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200120695453-3alp620tlabiq6kdde499vtlpkn9qadt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
